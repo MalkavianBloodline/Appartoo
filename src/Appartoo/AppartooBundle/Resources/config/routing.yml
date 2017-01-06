@@ -1,0 +1,11 @@
+appartoo_homepage:
+    pattern:  /
+    defaults: { _controller: AppartooBundle:Default:index }
+        
+appartoo_first:
+    pattern:  /first
+    defaults: { _controller: AppartooBundle:Default:firstTest }
+    
+appartoo_second:
+    pattern:  /second
+    defaults: { _controller: AppartooBundle:Default:secondTest }

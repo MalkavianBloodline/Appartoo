@@ -1,0 +1,7 @@
+parameters:
+#    appartoo.example.class: Appartoo\AppartooBundle\Example
+
+services:
+#    appartoo.example:
+#        class: %appartoo.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
